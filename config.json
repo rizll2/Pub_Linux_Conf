@@ -1,0 +1,8 @@
+{
+  "strport": 3232,
+  "url": "cn.xdagmine.com:13654",
+  "tls": false,
+  "debug": false,
+  "testnet": false,
+  "socks5": ""
+}
